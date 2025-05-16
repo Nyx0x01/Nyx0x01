@@ -23,7 +23,6 @@ I'm Nyx, a silent shadow in the coding world. I code with precision, building sy
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -35,12 +34,6 @@ I'm Nyx, a silent shadow in the coding world. I code with precision, building sy
 ![Nyx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyx0x01&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx0x01&layout=compact&theme=tokyonight&hide_border=true)
-
----
-<!-- Glitch Divider SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="glitch-divider" />
-</p>
 
 ---
 > 🕶 “In the silence of code, I find my power.”
