@@ -38,12 +38,4 @@ I'm Nyx, a silent shadow in the coding world. I code with precision, building sy
 
 ---
 
-### 🐍 Snake in the Terminal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nyx0x01/Nyx0x01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 > 🕶 “In the silence of code, I find my power.”
