@@ -37,5 +37,10 @@ I'm Nyx, a silent shadow in the coding world. I code with precision, building sy
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx0x01&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+<!-- Glitch Divider SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="glitch-divider" />
+</p>
 
+---
 > 🕶 “In the silence of code, I find my power.”
