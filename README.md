@@ -7,7 +7,7 @@
 ---
 
 ### 🖤 About Ace
-I'm Nyx, a silent shadow in the coding world. I code with precision, building systems that run in the quiet of the night.
+I'm Ace, a silent shadow in the coding world. I code with precision, building systems that run in the quiet of the night.
 
 🔐 Currently mastering the dark arts of **C++**, **C#**, **.NET**, **SQL**, and **PostgreSQL**.  
 🧩 I find beauty in complexity, chaos in simplicity.  
