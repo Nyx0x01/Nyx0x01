@@ -1,4 +1,4 @@
-<h1 align="center">🌒 Nyx 🌘</h1>
+<h1 align="center">🌒 Ace 🌘</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code+is+my+shadow+magic+;Building+systems+that+don't+sleep;Backend+warrior+in+dark+mode" alt="Typing SVG" /></a>
@@ -6,7 +6,7 @@
 
 ---
 
-### 🖤 About Nyx
+### 🖤 About Ace
 I'm Nyx, a silent shadow in the coding world. I code with precision, building systems that run in the quiet of the night.
 
 🔐 Currently mastering the dark arts of **C++**, **C#**, **.NET**, **SQL**, and **PostgreSQL**.  
@@ -31,7 +31,7 @@ I'm Nyx, a silent shadow in the coding world. I code with precision, building sy
 
 ### 📊 Stats from the Shadows
 
-![Nyx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyx0x01&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
+![Ace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyx0x01&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx0x01&layout=compact&theme=tokyonight&hide_border=true)
 
